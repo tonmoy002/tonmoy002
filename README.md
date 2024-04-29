@@ -1,10 +1,3 @@
-- 👋 Hi, I am Tonmoy Deb Chowdhury
-- 👀 I’m interested in new technologies
-- I know NodeJS, Javascript, react, PHP, Laravel, Java, MySql, MongoDB
-- 💞️ I’m looking to for an oportunities to work as a softare developer.
-- 📫 Send email for collagoration/get in touch:  debtonmoy09@gmail.com
+👋 Hi there! I'm Tonmoy Deb Chowdhury, a passionate PHP developer with a talent for developing robust web applications. With a solid foundation in software development principles and methodologies. I thrive on building efficient and scalable solutions using PHP and its popular framework, Laravel.
 
-<!---
-tonmoy002/tonmoy002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Armed with a Master's degree in High Integrity Systems (Computer Science) from Frankfurt University of Applied Sciences, I bring both academic knowledge and practical experience to the table. Over the past 2 years of work experience, I've honed my skills in backend development, database management, and API integration, delivering high-quality solutions that meet both user needs and business objectives.
